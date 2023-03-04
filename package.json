@@ -1,5 +1,5 @@
 {
-  "name": "server.js",
+  "name": "node.js",
   "version": "1.0.0",
   "description": "A simple app that allows users to upload and view images",
   "main": "server.js",
